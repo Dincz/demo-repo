@@ -1,2 +1,2 @@
 # demo-repo
-Learning Githug!!
+Learning Github!!
